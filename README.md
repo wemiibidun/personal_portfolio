@@ -19,7 +19,7 @@ Boostrap changes the game as a front end developer. I enjoyed styling the page w
 
 Direct link to this Github project:
 
-[tin_dog_webpage](https://wemiibidun.github.io/tin_dog_project/)
+[personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
 
 
 **Feedback**
