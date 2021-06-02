@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head tags -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <title>Personal Portfolio</title> <!--title of my portfolio -->
+
+     <!--boostrap CSS -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+     <!--css external stylesheet -->
+     <link rel="stylesheet" type="text/css" href="./css/styles.css"> 
+     
+     <link rel="icon" href="favicon.ico"> <!-- this will be displayed before the URL in the address bar of any browser -->
+
+     <!--font awesome -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+     <!--google font -->
+     <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Limelight&family=Montserrat&family=PT+Serif&family=Poppins&family=Fredoka+One&display=swap" rel="stylesheet">   
+</head>
+
+
+<body>
+    <!-- navigation bars -->
+    <div class="container pt-2">
+        <div class="row">
+             <div class="col-6 d-flex align-items-center">
+                 <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light" py-3 py-lg-0">
+                     <a href="index.html" class="navbar-brand ml-lg-3">
+                         <i class="fa fa-code text-warning"></i>
+                         <h1 class="logo_title d-inline">Portfolio</h1> 
+                    </a>
+                    <!-- collapsible button -->
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#collapsibleNavbar"><span class="navbar-toggler-icon"></span>
+                    </button>
+                        <!-- list of navigation bar -->
+                    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#home">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#skills">Skills</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#education">Education</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#experience">Experience</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div> 
+
+    <!-- Home Section -->
+    <div id = "home" class = "home_image text-center pt-5"><img src="./img/img1.png" class="img-fluid rounded-circle"/></div>
+    <div class="container pt-4 mt-5">
+        <div class="row">
+             <div class="col d-flex justify-content-center">
+                <h1 class="home_font">Hello! I'm <b class="text-warning">Wemi</b> and this is my personal porfolio. </h1>
+            </div>
+        </div>
+    </div>
+    
+
+ <!-- About Section -->
+    <div id="about" class="about container-fluid p-4 mb-2 col-8 d-flex justify-content-center">
+        <div class="row">
+            <div class="col-8 pl-5 pt-5 pb-5 text-white">
+                <h3 class="text-warning">About Me</h3>
+                <h1 class="m-heading">A little bit about me</h1>
+                <p class="text-justify">
+                    My name is Wemi Ibidun and I'm aspiring to become a full stack web developer. I'm currently enrolled in the Women in Technology (WIT) program, where  i'm learning different programming languages such as Python,Javascript, SQL amongst others. I created this online portfolio to showcase my work experience, skills and education. Feel free to <a href="#contact" class="about_contact text-warning">contact me</a> 
+                </p>
+                <br/>
+                <a href="https://drive.google.com/file/d/1Ujp2UxXQxd5cO3dF3uKeAh3-psPo5Y9b/view?usp=sharing" class="btn btn-outline-warning active" target="_blank" role="button" aria-pressed="true" >View My Resume</a> <!-- this links directly to my resume on google drive -->
+            </div>
+            
+            <div class="col-4">
+                <div class = "about_image"><img src="./img/img2.png" class="img-fluid rounded-circle"/></div>
+            </div>
+        </div>
+    </div>  
+<br>
+
+
+  <!-- My Skills Section -->
+  <div id="skills" class="container-fluid text-center pt-5 mb-2"></div>
+    <div class="row">
+        <div class="col-4 mb-5">
+            <h1 class="skills_font text-warning d-flex justify-content-center mb-3 pb-2">My Skills</h1>
+        </div>
+    </div>
+    
+
+    <div class="d-flex justify-content-center mb-2 col-9 container-fluid font-italic">
+        <img src="./img/html.png" class="img-fluid" alt="html-img">
+        <div>
+            <p class="card-text text-white">I use <b class="text-warning">HTML</b> to build the structure and layout of any webpage</p>
+        </div>
+            
+        <img src="./img/css-3.png" class="img-fluid" alt="css-img">
+        <div>
+            <p class="card-text text-white">I use <b class="text-warning">CSS</b> to style and format my webpage in order to give it a unique outlook.</p>
+        </div>
+
+    
+        <img src="./img/python.png" class="img-fluid" alt="python-img">
+        <div>
+            <p class="card-text text-white">I use <b class="text-warning">Python</b> to create simple applications for my users.</p>
+        </div>
+
+       
+        <img src="./img/github.png" class="img-fluid" alt="github-img">
+        <div>
+            <p class="card-text text-white">I use <b class="text-warning">Github</b> for collaboration and also to share some of the projects that I have done</p>
+        </div>
+    </div>
+
+
+    
+    <!-- My Work Experience & Education --> 
+    <div id="education"></div>
+    <div id="experience"></div>
+    <div class="container-fluid py-5 mt-5 mb-2 pt-5">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center"></div>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h3 class="edu mb-4 pb-3 text-warning">My Education</h3>
+
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">Full Stack Web Development</h5>
+                            <p class="mb-2"><b class="text-warning">Women in Technology</b> |<small> Apr 2021 - Oct 2021</small></p>
+                            <p>The full stack web development course is a programme that trains women on how to code. I am learning different frameworks for design and different programming languages</p>
+                        </div>
+
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">Masters In Information Systems</h5>
+                            <p class="mb-2"><b class="text-warning">Linnaeus University</b> | <small>2017 - 2018</small></p>
+                            <p>I had my Masters degree in Sweden. The Information Technology programme exposed me to information systems management, project and research implementation.</p>
+                        </div>
+
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">Bachelors in Electrical Engineering</h5>
+                            <p class="mb-2"><b class="text-warning">Obafemi Awolowo University</b> | <small>2007 - 2012</small></p>
+                            <p>My bachelors degree was in Electrical Engineering. This exposed me to the basics of programming such as data structures, variables, data types, amongst others.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <h3 class="work mb-4 text-warning">My Work Expericence</h3>
+
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">Transaction Specialist</h5>
+                            <p class="mb-2"><b class="text-warning">Shareworks by Morgan Stanley</b> | <small> 2018 - 2021</small></p>
+                            <p> <ul>
+                                <li>Provided advisory for first time home buyers, personal bankruptcy, etc.</li>
+                                <li>Helped clients to rebuild and redisburse their shares in situations where there is a failed delivery or fraud.</li>
+                                </ul> </p>
+                        </div>
+
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">IT Support</h5>
+                            <p class="mb-2"><b class="text-warning">NIMC</b> | <small> 2014-2015</small></p>
+                            <p><ul>
+                                <li>Provided timely response to IT related requests.</li>
+                                <li>Monitored and analyzed system and business integration issues.</li>
+                                </ul> </p>
+                        </div>
+
+                        <div class="position-relative mb-4 text-white">
+                            <h5 class="font-weight-bold mb-1">IT Support Engineer</h5>
+                            <p class="mb-2"><b class="text-warning">FRCN</b> | <small> 2011-2012</small></p>
+                            <p><ul>
+                                <li> Provided resolution to support requests from users.</li>
+                                <li>Responsible for troubleshooting technical issues.</li>
+                                </ul></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Page -->
+    <div id = "contact" class="container"">
+        <div class="row">
+             <div class="col-12 pb-4"> <!--This is for the main div -->
+                <div class="row">
+                    <div class="col-6">
+                        <h4 class="text-warning text-left mt-2 pt-4">Let's Connect!</h4>
+                        <p class="card-text text-white">If you ever want to grab a coffee/bubble tea <strong>(virtually)</strong> or just want a quick chat - you can find me on social media or you can send me a message here!</p>
+                        <div class="text-center">
+                            <a href="https://www.linkedin.com/in/wemimoibidunmoye" target="_blank"><img class="connect-link linkedIn" src="./img/linkedin.png" alt="linkedin-img"></a>
+                            <a href="https://twitter.com/wemiibidun" target="_blank"><img class="connect-link twitter" src="./img/twitter.png" alt="linkedin-img"></a>
+                            <a href="https://github.com/wemiibidun" target="_blank"><img class="connect-link linkedIn" src="./img/github1.png" alt="github-img"></a>
+                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" target="_blank"><img class="connect-link linkedIn" src="./img/gmail.png" alt="email-img"></a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-6">
+                        <!-- form-->
+                        <form>
+                            <div class="form-group mt-2 pt-4 text-warning">
+                              <label for="guestName">Name</label>
+                              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your First and Last Name">
+                            </div>
+                            <div class="form-group text-warning">
+                                <label for="exampleInputEmail1">Email</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email">
+                              </div>
+                              <div class="form-group text-warning">
+                                <label for="exampleFormControlTextarea1">Message</label>
+                                <textarea class="form-control rounded-0" id="exampleFormControlTextarea1" rows="10"></textarea>
+                              </div>
+                            <button type="submit" class="btn btn-info text-warning pb">Submit</button>
+                          </form>
+                    </div>  
+                </div>          
+            </div>
+        </div>
+    </div>
+  
+
+    <!-- Footer -->
+     <div class="container mt-5 pt-5 text-warning">
+         <footer>
+             <div id = "footer" class="text-center">
+                 © 2021 Copyright:
+                 <a class="text-reset fw-bold" href="#">Designed by Wemi Ibidun</a>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
+
+
+ 

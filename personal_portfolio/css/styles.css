@@ -1,0 +1,83 @@
+body{
+    background: #02475e;
+    font-family: "PT Serif", serif;
+}
+
+.about{
+  background: rgb(76, 161, 163, 0.2);
+  border-radius: 0.5rem;
+  margin-top: 5%;
+}
+
+.about_image img{
+	height: 400px;
+}
+
+.about_contact{
+  text-decoration: underline;
+}
+
+.home_font{
+  font-family: fredoka one;
+  color: antiquewhite;
+}
+
+.home_image img{
+	width: 300px;
+}
+
+.logo_title{
+  font-family: righteous, sans-serif, limelight;
+  font-size: 100%;
+}
+
+
+/* Navigation Bar Styling */
+.nav-link{
+     border: 2px solid transparent;
+    
+}
+
+.nav-link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid #ffddcc;
+    transition: 0.5s ease;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link.active {
+  color: #0BCEAF;
+}
+
+/* Body Styling */
+.skills_font{
+  font-size: 40px;
+  font-family: poppins;
+}
+
+.edu, .work{
+  font-size: 40px;
+  font-family: poppins;
+}
+
+
+/* Social Media Section Styling */
+#contact {
+    background: rgb(76, 161, 163, 0.2);
+  }
+
+.connect-link{
+      padding: 15px;
+      display: inline;
+}
+
+
+
+/* reponsive mobile */
+@media only screen and (min-width: 480px) {
+  body {
+    margin: auto;
+    width: 100%;
+  }
+}
+  
