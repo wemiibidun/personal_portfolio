@@ -5,8 +5,8 @@ This is my personal portfolio page project which I created with HTML and styled 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Features](#features)
-* [Status](#status)
 * [Link](#link)
+* [Status](#status)
 * [Contact](#contact)
 
 
@@ -25,13 +25,12 @@ The GUI of this project allows users to:
 * Have an insight to the skills I have
 * Contact me
 
-## Status
-Project is: _Complete_
-
 ## Link to View Project
 
 [personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
 
+## Status
+Project is: _Complete_
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
