@@ -34,6 +34,6 @@ Project is: _Complete_
 
 
 ## Contact
-Created by [@wemiibidun](https://twitter.com/wemiibidun/) - feel free to contact me!  wemiibidun@gmail.com
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
 
 
