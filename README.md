@@ -1,5 +1,5 @@
 # Personal Portfolio
-This is my personal portfolio project which I created with HTML and styled with CSS
+This is my personal portfolio project which I created with HTML and styled with CSS and boostrap
 
 ## Table of contents
 * [Introduction](#introduction)
