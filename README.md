@@ -1,29 +1,39 @@
-## Hi & Welcome! 👋
-
+# Personal Portfolio
 This is my personal portfolio project which I created with HTML and styled with CSS
 
-**Aim**
+## Table of contents
+* [Introduction](#introduction)
+* [Technologies](#technologies)
+* [Features](#features)
+* [Status](#status)
+* [Link](#link)
+* [Contact](#contact)
 
+
+## Introduction
 The aim of this project was to showcase my understanding of HTML, CSS and Bootstrap.  Also showcase my work experience and skills to employers
 
+## Technologies (Language, Library and Framework)
+* HTML
+* CSS
+* Bootstrap
+* Javascript
 
-**What I learnt**
+## Features
+The GUI of this project allows users to:
+* View my work experience and Education
+* Have an insight to the skills I have
+* Contact me
 
-In this project, I learnt more about HTML 5, CSS3 and Bootstrap
+## Status
+Project is: _Complete_
 
-
-**My Take Home**
-
-Boostrap changes the game as a front end developer. I enjoyed styling the page with boostrap and I love that it is responsive.
-
-
-Direct link to this Github project:
+## Link to View Project
 
 [personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
 
 
-**Feedback**
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/) - feel free to contact me!  wemiibidun@gmail.com
 
-Feedback is always welcome. If you have any to give, please email me via wemiibidun@gmail.com
 
-**Cheers!!!** 😊
