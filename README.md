@@ -11,7 +11,7 @@ This is my personal portfolio page project which I created with HTML and styled 
 
 
 ## Introduction
-The aim of this project was to showcase my understanding of HTML, CSS and Bootstrap.  Also showcase my work experience and skills to employers
+The aim of this project was to showcase my understanding of HTML, CSS and Bootstrap and also showcase my work experience and skills to employers
 
 ## Technologies (Language, Library and Framework)
 * HTML
