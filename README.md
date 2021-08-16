@@ -25,7 +25,7 @@ The GUI of this project allows users to:
 * Have an insight to the skills I have
 * Contact me
 
-## Link to View Project
+## Link to Published Portfolio
 
 [personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
 
