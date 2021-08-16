@@ -5,7 +5,7 @@ This is my personal portfolio page project which I created with HTML and styled 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Features](#features)
-* [Link](#link)
+* [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
 * [Contact](#contact)
 
