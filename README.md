@@ -3,7 +3,7 @@ This is my personal portfolio page project which I created with HTML and styled 
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Technologies](#technologies)
+* [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
 * [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
