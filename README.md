@@ -15,7 +15,8 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 
 
 ## Technologies (Language, Library and Framework)
-[Languages](https://img.shields.io/github/languages/top/wemiibidun/personal_portfolio)
+
+![GitLab Languages](https://img.shields.io/github/languages/top/wemiibidun/personal_portfolio)
 * HTML
 * CSS
 * Bootstrap
