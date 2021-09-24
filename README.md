@@ -1,3 +1,7 @@
+
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/personal_portfolio)
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
+
 # Personal Portfolio
 This is my personal portfolio page project which I created with HTML and styled with CSS and boostrap
 
@@ -15,10 +19,6 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 
 
 ## Technologies (Language, Library and Framework)
-
-![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/personal_portfolio)
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
-
 * HTML
 * CSS
 * Bootstrap
