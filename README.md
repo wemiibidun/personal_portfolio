@@ -1,5 +1,4 @@
 
-![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/personal_portfolio)
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
 
 # Personal Portfolio
