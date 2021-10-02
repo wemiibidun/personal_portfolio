@@ -1,6 +1,6 @@
 
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
-![GitLab Code Size](https://flat.badgen.net/github/status/micromatch/micromatch)
+![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
 
 # Personal Portfolio
