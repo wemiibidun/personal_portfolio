@@ -1,6 +1,7 @@
 
 ![GitLab Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
+![GitLab Code Size](https://flat.badgen.net/rubygems/v/rails)
 
 
 # Personal Portfolio
