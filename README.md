@@ -3,7 +3,7 @@
 ![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
 
-# Personal Portfolio ![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+# Personal Portfolio ![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 This is my personal portfolio page project which I created with HTML and styled with CSS and boostrap
 
 ## Table of contents
