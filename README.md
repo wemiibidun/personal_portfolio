@@ -3,7 +3,7 @@
 ![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
 
-# Personal Portfolio ![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+# Personal Portfolio ![GitLab Javascript]
 This is my personal portfolio page project which I created with HTML and styled with CSS and boostrap
 
 ## Table of contents
@@ -23,6 +23,10 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 ![Sample image](https://github.com/wemiibidun/personal_portfolio/blob/main/personal_portfolio_js.png)
 
 ## Technologies (Language, Library and Framework)
+(https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html&logoColor=61DAFB)
+(https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
+(https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
+(https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 * HTML
 * CSS
 * Bootstrap
