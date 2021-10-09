@@ -24,7 +24,7 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 
 ## Technologies (Language, Library and Framework)
 ![GitLab Javascript](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![GitLab Javascript](https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
+![GitLab Javascript](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![GitLab Javascript](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 * HTML
