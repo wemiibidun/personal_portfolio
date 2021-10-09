@@ -23,10 +23,10 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 ![Sample image](https://github.com/wemiibidun/personal_portfolio/blob/main/personal_portfolio_js.png)
 
 ## Technologies (Language, Library and Framework)
-![GitLab Javascript](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![GitLab Javascript](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![GitLab Javascript](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
-![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 * HTML
 * CSS
 * Bootstrap
