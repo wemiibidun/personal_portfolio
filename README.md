@@ -40,7 +40,7 @@ The GUI of this project allows users to:
 
 ## Link to Published Portfolio
 
-[personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
+[Personal Porfolio Webpage](https://wemiibidun.github.io/personal_portfolio/)
 
 ## Status
 Project is: _Complete_
